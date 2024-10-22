@@ -1,0 +1,12 @@
+body {
+
+    img{
+        max-width: 25%;
+    }
+
+
+    text-align: center;
+    background: black;
+    color: green;
+    display: block;
+}
